@@ -44,6 +44,45 @@ animation: Gradient 15s ease infinite;
   background-position: 0% 50%
 }
 }
-h1 {font-family:verdana;
-    margin:0px}
-p {}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #171f25;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family:verdana;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+h1{
+	font-family: Verdana;
+  font-weight:300;
+  font-size:70px;
+  color:white;
+	text-align: center;
+  padding-top: :80px;
+}
+
+p {
+  font-family:Open Sans;
+  color:white;
+  text-align: center;
+	position:bottom;
+	top: 80%;
+	right: 0;
+	left: 0
+}
