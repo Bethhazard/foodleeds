@@ -71,12 +71,20 @@ li a:hover {
 h1{
 	font-family: Verdana;
   font-weight:300;
-  font-size:70px;
+  font-size:50px;
   color:white;
 	text-align: center;
   padding-top: :80px;
 }
-
+h2{
+  color:white;
+	font-family:Open sans;
+  font-weight:300;
+  font-size:20px;
+	text-align: center;
+  position:bottom;
+	padding:0px;
+}
 p {
   font-family:Open Sans;
   color:white;
@@ -85,4 +93,12 @@ p {
 	top: 80%;
 	right: 0;
 	left: 0
+}
+h3{
+  positon:bottom;
+  color:white;
+	font-family:Open sans;
+  font-weight:300;
+  font-size:20px;
+	text-align: center;
 }
