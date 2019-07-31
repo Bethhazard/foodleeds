@@ -44,50 +44,6 @@ animation: Gradient 15s ease infinite;
   background-position: 0% 50%
 }
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #171f25;
-}
-
-li {
-  float: left;
-}
-
-li a {
-  font-family:verdana;
-  display: block;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-
-li a:hover {
-  background-color: #111;
-}
-h1{
-	font-family: Verdana;
-  font-weight:300;
-  font-size:70px;
-	text-align: center;
-  padding-top: :80px;
-}
-h2{
-	font-family:Open sans;
-  font-weight:300;
-  font-size:20px;
-	text-align: center;
-	padding:0px;
-}
-p {
-  font-family:Open Sans;
-  color:white;
-  text-align: center;
-	position: absolute;
-	top: 80%;
-	right: 0;
-	left: 0
-}
+h1 {font-family:verdana;
+    margin:0px}
+p {}
